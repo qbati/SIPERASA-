@@ -42,7 +42,7 @@ The models were trained and evaluated on a Kaggle dataset consisting of **395 st
 
 2.  **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
+    install requirements (In case)
     ```
 
 3.  **Run the application:**
